@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gavinduachintha
-- 👀 I’m interested in ... Data Science/Programming/Gaming and cryptocurrency
-- 🌱 I’m currently learning ... i'm leaning to advaced level examination in this year
-- 💞️ I’m looking to collaborate on ...Cryptocurrency and especially in Data science
+- 👀 I’m interested in ... Data Science/Programming/Gaming 
+- 🌱 I’m currently learning ... C/C++/ Python
+- 💞️ I’m looking to collaborate on ...Programming and especially in Data science
 - 📫 How to reach me ...contact me on agavindu123@gmail.com
 
 <!---
