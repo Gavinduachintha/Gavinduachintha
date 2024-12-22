@@ -1,13 +1,15 @@
-👋 Hi, I’m @Gavinduachintha
+👋 Hi, I’m Gavindu, a Computer Science undergraduate with a passion for software development, electronics, and data analysis. I enjoy exploring the intersection of hardware and software to create innovative and impactful solutions.
 
--👀 Passionate about ... Building open-source projects, creating web applications, and solving bugs in code
+💻 Languages & Tools:
 
--🌱 Currently learning ... Python, JavaScript, and C/C++
+Proficient in Python, C, C++, and JavaScript
+Building web applications and experimenting with robotics projects
+Enthusiastic about open-source contributions
+🌱 Currently learning advanced concepts in web development and embedded systems.
 
--💞️ I’m looking to collaborate on ... Programming, web development, and data science
+🚀 I strive to design and develop projects that solve real-world problems and share my knowledge through the tech community.
 
--📫 How to reach me ... contact me at gavindu.al@gmail.com
-
+📫 Feel free to connect or collaborate with me! - gavindu.al@gmail.com
 
 <!---
 Gavinduachintha/Gavinduachintha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
