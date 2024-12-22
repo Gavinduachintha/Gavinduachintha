@@ -5,7 +5,8 @@
 Proficient in Python, C, C++, and JavaScript
 Building web applications and experimenting with robotics projects
 Enthusiastic about open-source contributions
-🌱 Currently learning advanced concepts in web development and embedded systems.
+
+🌱 Currently learning advanced concepts in python development.
 
 🚀 I strive to design and develop projects that solve real-world problems and share my knowledge through the tech community.
 
