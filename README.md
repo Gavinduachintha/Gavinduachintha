@@ -17,7 +17,7 @@
   <a href="https://dev.to/gavindu_achintha_63c3ead4" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yh" height="30" width="40" />
   </a>  
-  <a href="https://twitter.com/yhy" target="blank">
+  <a href="https://twitter.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yhy" height="30" width="40" />
   </a>  
   <a href="www.linkedin.com/in/gavindu-achintha" target="blank">
