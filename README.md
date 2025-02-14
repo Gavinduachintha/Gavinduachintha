@@ -1,16 +1,20 @@
+
 <h1 align="center">Hi 👋, I'm Gavindu</h1> 
-<h3 align="center">A passionate about backend development</h3> 
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/606d87dc-057e-4658-8f77-fc6035c3107c" align="center" width="200">A passionate about backend development <img src="https://github.com/user-attachments/assets/606d87dc-057e-4658-8f77-fc6035c3107c" align="center" width="200"></h3>
+
 
 - 🔭 I’m currently studying **Computer Science**, blending my knowledge of **electronics** and **statistics** to create impactful solutions.  
 🌱 I enjoy learning new technologies and building projects that combine hardware and software.
 - 👯 I’m looking to collaborate on **open-source projects**, particularly in the fields of **IoT**, **Robotics**, and **web development**.  
-- 💻 I have experience in developing projects using **Python**, **JavaScript along with HTML and CSS**, **Arduino**, and **Firebase**.  
+- 💻 I have experience in developing projects using **Python**, **JavaScript along with HTML and CSS**, **Arduino**, **C**, and **Firebase**.  
 - 👨‍💻 All of my projects are available at **[Gavinduachintha](https://github.com/Gavinduachintha)**.  
 - 📫 How to reach me: **gavindu.al@gmail.com**  
 - 🚀 In my spare time, I love experimenting with **emerging technologies** like **AI**, **blockchain**, and **embedded systems**.  
 - 🌐 Beyond programming, I enjoy sharing knowledge and collaborating with others to create projects that make a difference.  
 
 <!--- 📄 Know about my experiences [fff](fff) --> 
+<img src="https://github.com/user-attachments/assets/0c7704c4-eedf-472d-98ae-f41ae8662b6f" align="center" >
+
 
 <h3 align="left">Connect with me:</h3> 
 <p align="center">
@@ -73,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
+
 
 
 <!---<p align="center" style="margin: 20px 0;">
