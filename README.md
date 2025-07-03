@@ -2,16 +2,48 @@
 <h1 align="center">Hi 👋, I'm Gavindu</h1> 
 <h3 align="center"> <img src="https://github.com/user-attachments/assets/606d87dc-057e-4658-8f77-fc6035c3107c" align="center" width="200">A passionate about backend development <img src="https://github.com/user-attachments/assets/606d87dc-057e-4658-8f77-fc6035c3107c" align="center" width="200"></h3>
 
+🔭 Currently Pursuing:
+I'm a Computer Science student blending my passion for electronics, programming, and statistics to craft meaningful and innovative tech solutions.
 
-- 🔭 I’m currently studying **Computer Science**, blending my knowledge of **electronics** and **statistics** to create impactful solutions.  
-🌱 I enjoy learning new technologies and building projects that combine hardware and software.
-- 👯 I’m looking to collaborate on **open-source projects**, particularly in the fields of **IoT**, **Robotics**, and **web development**.  
-- 💻 I have experience in developing projects using **Python**, **JavaScript along with HTML and CSS**, **Arduino**, **C**, and **Firebase**.  
-- 👨‍💻 All of my projects are available at **[Gavinduachintha](https://github.com/Gavinduachintha)**.  
-- 📫 How to reach me: **gavindu.al@gmail.com**  
-- 🚀 In my spare time, I love experimenting with **emerging technologies** like **AI**, **blockchain**, and **embedded systems**.  
-- 🌐 Beyond programming, I enjoy sharing knowledge and collaborating with others to create projects that make a difference.  
+🌱 What I Do:
+I love building full-stack applications, IoT systems, and robotics projects that bring together hardware and software. I'm constantly exploring new technologies and pushing the boundaries of what I can create.
 
+👯 Looking to Collaborate On:
+Open-source projects related to:
+
+Internet of Things (IoT)
+
+Robotics and automation
+
+Web development (especially PERN stack)
+
+Embedded systems (Arduino, STM32)
+
+💻 Tech Stack & Tools:
+
+Languages: Python, JavaScript, C,C++, Java and Go
+
+Frontend: HTML, CSS, React, Tailwind CSS
+
+Backend: Node.js, Express
+
+Databases: PostgreSQL, Supabase
+
+Hardware: Arduino, ESP8266, STM32
+
+Tools: Git, VS Code, Postman, Termius
+
+🚀 On My Radar:
+Experimenting with AI, blockchain, edge computing, and modern backend tools.
+
+🌐 My Projects:
+Explore my work on GitHub — from URL shorteners and note-taking apps to real-time plant monitoring systems and custom electronics integrations.
+
+📫 Reach Me At:
+📩 gavindu.al@gmail.com
+
+🤝 Let’s Connect:
+I'm always excited to collaborate, share knowledge, and build solutions that make a real impact!
 <!--- 📄 Know about my experiences [fff](fff) --> 
 <img src="https://github.com/user-attachments/assets/0c7704c4-eedf-472d-98ae-f41ae8662b6f" align="center" >
 
