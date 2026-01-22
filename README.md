@@ -1,153 +1,151 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/606d87dc-057e-4658-8f77-fc6035c3107c" width="200">
 
-  # Hi 👋, I'm Gavindu Achintha  
+  <!-- Animated Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Gavindu%20Achintha&fontSize=50&fontAlignY=35&animation=twinkling"/>
 
-  ### Computer Science Student | Full-Stack Developer | IoT Enthusiast  
+  <!-- Cartoon Developer Illustration -->
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cartoon-dev.gif" width="220"/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/gavindu-achintha">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:gavindu.al@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://dev.to/gavindu_achintha_63c3ead4">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-    </a>
-    <a href="https://www.hackerrank.com/agavindu123">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white">
-    </a>
-  </p>
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=gavinduachintha&label=Profile%20Views&color=0e75b6&style=flat" />
+  <!-- Typing Animation -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Gavindu+Achintha;Computer+Science+Undergraduate;Backend+%26+Full-Stack+Developer;IoT+%26+Robotics+Enthusiast)](https://git.io/typing-svg)
+
+  <br/>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/gavindu-achintha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gavindu.al@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/gavindu_achintha_63c3ead4">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/agavindu123">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://app.daily.dev/gavi_901">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Gavinduachintha&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
+
+  <!-- Daily.dev + WakaTime Cards -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://app.daily.dev/gavi_901">
+          <img src="https://api.daily.dev/devcards/v2/AFvqIHd1UORzSa7WIyvKB.png" width="300"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gavinduachintha&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<p align="center" style="max-width:720px;margin:auto;">
-🎓 <b>Computer Science Undergraduate</b> from <b>Sri Lanka 🇱🇰</b><br/><br/>
-💼 <b>Full-Stack Developer</b> with a strong backend focus<br/>
-🔌 <b>IoT & Embedded Systems Enthusiast</b><br/>
-🤖 Interested in <b>Robotics, Automation & Smart Systems</b><br/><br/>
-✨ I enjoy building real-world solutions by blending <b>software</b> and <b>electronics</b>.<br/>
-🔭 Currently working on scalable web apps, IoT platforms, and embedded projects.<br/>
-🌱 Learning advanced backend architectures, cloud-native systems, and applied AI.<br/>
-🎯 Goal: Become a highly skilled backend & systems engineer.
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+🎓 Computer Science Undergraduate from **Sri Lanka 🇱🇰**  
+💼 Full-Stack Developer with **strong backend focus**  
+🔌 Passionate about **IoT & Embedded Systems**  
+🤖 Interested in **Robotics, Automation & Smart Systems**  
+🌱 Learning **cloud-native architectures & applied AI**  
+🎯 **Goal:** Become a top-tier backend & systems engineer  
 
 
-<div align="center">
-  <h2>📊 GitHub Insights</h2>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gavinduachintha&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gavinduachintha&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🧠 Programming Languages
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,dart&theme=dark"/>
 </div>
 
-#### 🧠 Programming Languages
-
+### 🎨 Frontend & UI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter,redux&theme=dark"/>
 </div>
 
-#### 🎨 Frontend & UI
-
+### ⚙️ Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,supabase,firebase,mongodb,prisma,graphql&theme=dark"/>
 </div>
 
-#### ⚙️ Backend & Databases
-
+### 🔌 Embedded & Hardware
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,supabase,firebase,mongodb,prisma,graphql&theme=dark" />
-</div>
-
-#### 🔌 Embedded & Hardware
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
   <p><b>ESP8266 • STM32 • Embedded C • Sensor Integration</b></p>
 </div>
 
-#### 🧰 Tools & DevOps
-
+### 🧰 Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-
-## 🚀 Featured Projects
-
-- 🌐 Full-stack web applications (PERN Stack)  
-- 🔗 URL shorteners & productivity tools  
-- 📝 Note-taking applications  
-- 🌱 Real-time IoT monitoring systems  
-- 🤖 Robotics & Automation  
-- 🔧 Arduino, ESP8266, STM32 integrations  
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h2>📈 Contribution Activity</h2>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gavinduachintha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Gavinduachintha&theme=tokyonight&hide_border=true"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavinduachintha&theme=tokyo&hide_border=true&radius=12" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-
-
-
-<!-- ===================== COLLAB ===================== -->
-
 <div align="center">
-  <h2>🤝 Open for Collaboration</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Open%20Source-00D9FF?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/IoT%20%26%20Embedded-FF6B6B?style=for-the-badge&logo=arduino" />
-    <img src="https://img.shields.io/badge/Web%20Applications-4ECDC4?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/Smart%20Automation-95E1D3?style=for-the-badge&logo=raspberrypi" />
-  </p>
-
-  <br/>
-  <b>💬 Let’s build something impactful together.</b>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavinduachintha&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
+---
+
+## 📈 GitHub Activity Summary
 
 <div align="center">
-  <h3>🔗 Connect with Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/gavindu-achintha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:gavindu.al@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://dev.to/gavindu_achintha_63c3ead4"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com/agavindu123"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-    <a href="https://github.com/Gavinduachintha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gavinduachintha&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gavinduachintha&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gavinduachintha&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gavinduachintha&theme=tokyonight&utcOffset=5.5" width="32%"/>
+</div>
+
+---
+
+## 🤝 Open for Collaboration
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0c7704c4-eedf-472d-98ae-f41ae8662b6f" width="100%">
+  <img src="https://img.shields.io/badge/Open%20Source-00D9FF?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20Embedded-FF6B6B?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Web%20Development-4ECDC4?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Robotics%20%26%20Automation-95E1D3?style=for-the-badge&logo=raspberrypi"/>
+</div>
 
-  ### 💡 "Building the future, one line of code at a time"
+---
 
-  <sub>⭐️ From [Gavinduachintha](https://github.com/Gavinduachintha)</sub>
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+  ### 💡 *"Building the future, one line of code at a time"*
+
+  <sub>⭐️ From <a href="https://github.com/Gavinduachintha">Gavinduachintha</a></sub>
+
 </div>
