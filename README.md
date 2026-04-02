@@ -55,8 +55,9 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gavinduachintha&theme=tokyonight&hide_border=true"/>
       </td>
     </tr>
+    
   </table>
-
+  [![An image of @gavinduachintha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gavinduachintha)](https://holopin.io/@gavinduachintha)
 </div>
 
 🎓 Computer Science Undergraduate from **Sri Lanka 🇱🇰**  
