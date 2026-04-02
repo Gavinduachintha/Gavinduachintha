@@ -6,32 +6,42 @@
 
   <!-- Cartoon Developer Illustration -->
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cartoon-dev.gif" width="220"/>
-
+    
   <br/>
 
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Gavindu+Achintha;Computer+Science+Undergraduate;Backend+%26+Full-Stack+Developer;IoT+%26+Robotics+Enthusiast)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Gavindu+Achintha;Backend+Engineer+in+Progress;IoT+%2C+Robotics+%26+ML+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
   <br/>
 
   <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/gavindu-achintha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gavindu.al@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/gavindu_achintha_63c3ead4">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/agavindu123">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://app.daily.dev/gavi_901">
-    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
+ <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 1rem 0;">
+
+  <a href="https://www.linkedin.com/in/gavindu-achintha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
+  <a href="mailto:gavindu.al@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://dev.to/gavindu_achintha_63c3ead4" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/agavindu123" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+
+  <a href="https://app.daily.dev/gavi_901" target="_blank">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"/>
+  </a>
+
+</div>
+
+</div>
+
   <br/><br/>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/4da77c0e-1747-48c1-9b8f-865cb4a54338)
 
   <img src="https://komarev.com/ghpvc/?username=Gavinduachintha&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
 
@@ -39,33 +49,29 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
+Aspiring backend engineer passionate about building scalable web applications and clean system architectures.  
 
+🏀 Basketball & 🏊 swimming enthusiast — disciplined and team-oriented.  
+⚡ Electronics lover — enjoy blending hardware with software solutions.  
+🚀 Always learning, always building.
 <div align="center">
 
   <!-- Daily.dev + WakaTime Cards -->
   <table>
     <tr>
       <td align="center">
-        <a href="https://app.daily.dev/gavi_901">
-          <img src="https://api.daily.dev/devcards/v2/AFvqIHd1UORzSa7WIyvKB.png" width="300"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gavinduachintha&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-    
+        <a href="https://app.daily.dev/gavi_901"/>
+          <img width="700"  alt="gavi_901" src="https://github.com/user-attachments/assets/a98c3564-ec69-4317-9ec5-8537a892ce2c" />
+  <a href="https://holopin.io/@gavinduachintha">
+    <img src="https://holopin.me/gavinduachintha" width="700" alt="Holopin badges"/>
+    <p> Hacktoberfest 2025</p>
+  </a>
   </table>
-  [![An image of @gavinduachintha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gavinduachintha)](https://holopin.io/@gavinduachintha)
+
 </div>
 
-🎓 Computer Science Undergraduate from **Sri Lanka 🇱🇰**  
-💼 Full-Stack Developer with **strong backend focus**  
-🔌 Passionate about **IoT & Embedded Systems**  
-🤖 Interested in **Robotics, Automation & Smart Systems**  
-🌱 Learning **cloud-native architectures & applied AI**  
-🎯 **Goal:** Become a top-tier backend & systems engineer  
+
 
 
 
@@ -74,30 +80,19 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,dart&theme=dark"/>
-</div>
-
-### 🎨 Frontend & UI
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter,redux&theme=dark"/>
-</div>
-
-### ⚙️ Backend & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,supabase,firebase,mongodb,prisma,graphql&theme=dark"/>
-</div>
-
-### 🔌 Embedded & Hardware
-<div align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,dart,bash&theme=dark"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,redux&theme=dark"/>
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mysql,mongodb,prisma,graphql,redis&theme=dark"/>
+  <!-- Cloud & BaaS -->
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,aws,azure&theme=dark"/>
+  <!-- Embedded / Hardware -->
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-  <p><b>ESP8266 • STM32 • Embedded C • Sensor Integration</b></p>
-</div>
-
-### 🧰 Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark"/>
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,docker,kubernetes,postman,figma&theme=dark"/>
 </div>
 
 ---
@@ -105,13 +100,10 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gavinduachintha&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Gavinduachintha&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavinduachintha&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+
 
 ---
 
