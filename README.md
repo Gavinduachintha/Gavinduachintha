@@ -1,11 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=180&section=header&text=Gavindu%20Achintha&fontSize=44&fontColor=E2E8F0&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=200&section=header&text=Gavindu%20Achintha&fontSize=48&fontColor=E2E8F0&fontAlignY=35&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Backend+Engineer+%7C+Machine+Learning+Enthusiast+%7C+Robotics+Builder;Designing+scalable+systems+and+intelligent+automation;Always+learning.+Always+shipping." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Machine+Learning+Enthusiast+%7C+Robotics+Builder;Designing+Scalable+APIs+%E2%9A%A1+Training+Intelligent+Systems+%F0%9F%A7%A0;Always+Learning+%7C+Always+Building+%7C+Always+Improving"/>
 
 <br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/gavindu-achintha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,52 +33,36 @@
 ---
 
 ## 👋 About Me
-I’m an aspiring **Backend Engineer** who loves designing reliable APIs, clean architectures, and scalable systems.  
-I also work on **Machine Learning** projects and enjoy building **Robotics + IoT** solutions where software meets hardware.
+I’m an aspiring **Backend Engineer** passionate about building reliable APIs, clean architectures, and scalable systems.  
+I also work on **Machine Learning** and enjoy creating **Robotics + IoT** solutions where software meets hardware.
 
 - 🧠 Focus areas: distributed backend systems, ML applications, embedded intelligence
 - ⚙️ Interests: automation, intelligent agents, cloud-native services
 - 🏀 Outside tech: basketball, swimming, and continuous self-improvement
 
----
-
-## 🚀 Focus Domains
 <div align="center">
-
-| Backend Engineering | Machine Learning | Robotics & IoT |
-|---|---|---|
-| API design, microservices, databases, performance tuning | model training, inference pipelines, data workflows | embedded systems, sensors, control logic, edge computing |
-
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" alt="Developer gif"/>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Backend & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,go,java,postgresql,mysql,mongodb,redis,graphql,docker,kubernetes,aws,azure&theme=dark"/>
-</div>
-
-### Machine Learning & Data
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,go,java,postgresql,mysql,mongodb,redis,graphql,docker,kubernetes,aws,azure,arduino,raspberrypi,c,cpp,bash,linux,git,github,vscode,postman&theme=dark"/>
   <br/>
-  <sub>Also working with: NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch (project-based)</sub>
-</div>
-
-### Robotics, Embedded & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,bash,linux,git,github,vscode,postman&theme=dark"/>
+  <sub>Also working with: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch</sub>
 </div>
 
 ---
 
-## 📌 Featured Tracks
-
+## 📌 What I Build
 - **Backend Engineering**: production-ready APIs, authentication, scalable service patterns
 - **Machine Learning**: practical ML integrations for real-world applications
-- **Robotics**: autonomous workflows and electronics-driven prototypes
+- **Robotics & IoT**: autonomous workflows and electronics-driven prototypes
+
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="380" alt="AI animation"/>
+</div>
 
 ---
 
