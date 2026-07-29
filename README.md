@@ -81,18 +81,13 @@ Aspiring backend engineer passionate about building scalable web applications an
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,dart,bash&theme=dark"/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,redux&theme=dark"/>
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mysql,mongodb,prisma,graphql,redis&theme=dark"/>
-  <!-- Cloud & BaaS -->
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,aws,azure&theme=dark"/>
-  <!-- Embedded / Hardware -->
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,docker,kubernetes,postman,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go&theme=dark" />
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs&theme=dark" />
+  
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+  
+  <img src="https://skillicons.dev/icons?i=docker,aws,arduino,raspberrypi&theme=dark" />
 </div>
 
 ---
