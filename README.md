@@ -103,17 +103,9 @@ Aspiring backend engineer passionate about building scalable web applications an
 ---
 
 ## 📈 GitHub Activity Summary
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gavinduachintha&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavinduachintha&bg_color=1e1e2e&color=a6e3a1&line=22c55e&point=a6e3a1&area=true&area_color=22c55e&hide_border=true"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gavinduachintha&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gavinduachintha&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gavinduachintha&theme=tokyonight&utcOffset=5.5" width="32%"/>
-</div>
-
 ---
 
 ## 🤝 Open for Collaboration
