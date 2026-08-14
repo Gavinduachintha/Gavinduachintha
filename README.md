@@ -63,10 +63,13 @@ Aspiring backend engineer passionate about building scalable web applications an
       <td align="center">
         <a href="https://app.daily.dev/gavi_901"/>
           <img width="700"  alt="gavi_901" src="https://github.com/user-attachments/assets/a98c3564-ec69-4317-9ec5-8537a892ce2c" />
-  <a href="https://holopin.io/@gavinduachintha">
-    <img src="https://holopin.me/gavinduachintha" width="700" alt="Holopin badges"/>
-    <p> Hacktoberfest 2025</p>
-  </a>
+          <a href="https://holopin.io/@gavinduachintha">
+            <img src="https://holopin.me/gavinduachintha" width="700" alt="Holopin badges"/>
+            <p> Hacktoberfest 2025</p>
+          </a>
+          <p align="center">
+            <img src="https://api.boot.dev/v1/users/public/94cfad5f-4b43-45e5-bb20-1c0ffddf67e4/thumbnail" >
+          </p>
   </table>
 
 </div>
