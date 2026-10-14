@@ -67,6 +67,16 @@ Aspiring backend engineer passionate about building scalable web applications an
             <img src="https://holopin.me/gavinduachintha" width="700" alt="Holopin badges"/>
             <p> Hacktoberfest 2025</p>
           </a>
+          <p>Hacktoberfest 2026 Achievements</p>
+          <p align="center">
+            <img src="https://github.com/user-attachments/assets/7b61e19f-bc8c-490c-b63f-2c3a07d0b7c5" width="700" alt="Hacktoberfest 2026 Certificate of Completion"/>
+          </p>
+          <p align="center">
+            <img src="https://github.com/user-attachments/assets/bb24ca74-edfc-4cbd-b3a0-1e10382c710a" width="700" alt="Hacktoberfest 2026 Achievement"/>
+          </p>
+          <p align="center">
+            <img src="https://github.com/user-attachments/assets/5726d89d-0050-4d6c-91f9-fbcd9cc18893" width="700" alt="Hacktoberfest 2026 Achievement"/>
+          </p>
           <p align="center">
             <img src="https://api.boot.dev/v1/users/public/94cfad5f-4b43-45e5-bb20-1c0ffddf67e4/thumbnail" >
           </p>
