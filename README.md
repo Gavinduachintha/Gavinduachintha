@@ -22,37 +22,9 @@ swimming · basketball · the occasional game
 
 <div align="center"><h3>Focus</h3></div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Embedded & Edge**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" height="36" alt="C, C++, Arduino, Raspberry Pi" />
-
-Devices that keep working where a reliable network cannot be assumed.
-
-</td>
-<td width="33%" valign="top">
-
-**Applied Intelligence**
-
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&theme=dark" height="36" alt="Python, OpenCV, TensorFlow" />
-
-Vision and models that run on the device rather than in someone else's cloud.
-
-</td>
-<td width="33%" valign="top">
-
-**Software**
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,nodejs,postgres&theme=dark" height="36" alt="TypeScript, React, Next.js, Go, Node, PostgreSQL" />
-
-The interfaces and services that make the hardware useful.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/focus.svg" width="100%" alt="Focus: embedded and edge, applied intelligence, software" />
+</p>
 
 <div align="center"><h3>Selected work</h3></div>
 
