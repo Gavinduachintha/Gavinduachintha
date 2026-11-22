@@ -1,63 +1,134 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Focus: Embedded and Edge - C, C++, Arduino, ESP32, Raspberry Pi. Applied Intelligence - Python, OpenCV, YOLO, TensorFlow, Edge Impulse. Software - TypeScript, React, Next.js, Go, Node, PostgreSQL.">
-  <style><![CDATA[
-    .n { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 10px; fill: #5fbc8a; fill-opacity: 0.75; letter-spacing: 0.18em; }
-    .h { font-family: 'Space Grotesk', 'Segoe UI', system-ui, sans-serif; font-size: 16px; font-weight: 600; fill: #f3f7f4; }
-    .d { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 11.5px; fill: #9fb0a8; }
-    .c { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 10.5px; fill: #5fbc8a; }
-  ]]></style>
 
-  <rect x="0.5" y="0.5" width="899" height="189" rx="12" fill="#0d1411" stroke="#5fbc8a" stroke-opacity="0.22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Technology stack: Embedded and Edge, Applied Intelligence, and Software">
+  <style>
+    .n { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #FF9F43; letter-spacing: .18em; }
+    .h { font-family: 'Space Grotesk', 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #F5F7FA; }
+    .d { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; fill: #A7B0BC; }
+    .ct { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #DCE5E8; }
+    .chip { fill: #181F25; stroke: #343F48; stroke-width: .8; }
+    .mint { stroke: #65D6AD; fill: none; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+    .orange { stroke: #FF9F43; fill: none; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
 
-  <!-- 01 Embedded and Edge -->
+  <rect x=".5" y=".5" width="899" height="189" rx="12" fill="#101318" stroke="#343B46"/>
+
+  <!-- EMBEDDED -->
   <text x="22" y="28" class="n">01</text>
   <text x="22" y="50" class="h">Embedded &amp; Edge</text>
-  <rect x="22" y="60" width="266" height="1" fill="#5fbc8a" fill-opacity="0.16"/>
+  <rect x="22" y="60" width="266" height="1" fill="#343B46"/>
   <text x="22" y="84" class="d">Hardware that keeps working</text>
   <text x="22" y="102" class="d">where the network cannot.</text>
-  <rect x="22" y="120" width="24" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="34" y="135" class="c" text-anchor="middle">C</text>
-  <rect x="53" y="120" width="37" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="71.5" y="135" class="c" text-anchor="middle">C++</text>
-  <rect x="97" y="120" width="62" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="128" y="135" class="c" text-anchor="middle">Arduino</text>
-  <rect x="166" y="120" width="50" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="191" y="135" class="c" text-anchor="middle">ESP32</text>
-  <rect x="22" y="148" width="94" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="69" y="163" class="c" text-anchor="middle">Raspberry Pi</text>
 
-  <!-- 02 Applied Intelligence -->
+  <!-- C -->
+  <rect x="22" y="120" width="52" height="23" rx="5" class="chip"/>
+  <text x="32" y="135" font-size="13" font-weight="700" fill="#65D6AD">C</text>
+  <text x="49" y="135" class="ct">C</text>
+
+  <!-- C++ -->
+  <rect x="80" y="120" width="56" height="23" rx="5" class="chip"/>
+  <text x="88" y="135" font-size="12" font-weight="700" fill="#FF9F43">C++</text>
+
+  <!-- Arduino -->
+  <rect x="142" y="120" width="83" height="23" rx="5" class="chip"/>
+  <path d="M151 131 C154 123 160 123 163 131 C166 139 172 139 175 131 C178 123 184 123 187 131" class="mint"/>
+  <text x="191" y="135" class="ct">Arduino</text>
+
+  <!-- ESP32 -->
+  <rect x="231" y="120" width="57" height="23" rx="5" class="chip"/>
+  <rect x="238" y="126" width="11" height="11" rx="2" class="mint"/>
+  <path d="M235 128h3 M235 133h3 M235 138h3 M249 128h3 M249 133h3 M249 138h3" class="mint"/>
+  <text x="255" y="135" class="ct">ESP32</text>
+
+  <!-- Raspberry Pi -->
+  <rect x="22" y="148" width="110" height="23" rx="5" class="chip"/>
+  <g fill="#C51A4A">
+    <circle cx="34" cy="158" r="3.5"/>
+    <circle cx="42" cy="158" r="3.5"/>
+    <circle cx="38" cy="164" r="3.5"/>
+    <path d="M38 154 Q34 148 30 152 Q34 155 38 154 M39 154 Q43 148 47 152 Q43 155 39 154"/>
+  </g>
+  <text x="51" y="163" class="ct">Raspberry Pi</text>
+
+  <!-- APPLIED INTELLIGENCE -->
   <text x="316" y="28" class="n">02</text>
   <text x="316" y="50" class="h">Applied Intelligence</text>
-  <rect x="316" y="60" width="266" height="1" fill="#5fbc8a" fill-opacity="0.16"/>
+  <rect x="316" y="60" width="266" height="1" fill="#343B46"/>
   <text x="316" y="84" class="d">Vision and models that run</text>
   <text x="316" y="102" class="d">on the device, not a cloud.</text>
-  <rect x="316" y="120" width="56" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="344" y="135" class="c" text-anchor="middle">Python</text>
-  <rect x="379" y="120" width="56" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="407" y="135" class="c" text-anchor="middle">OpenCV</text>
-  <rect x="442" y="120" width="43" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="463.5" y="135" class="c" text-anchor="middle">YOLO</text>
-  <rect x="316" y="148" width="81" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="356.5" y="163" class="c" text-anchor="middle">TensorFlow</text>
-  <rect x="404" y="148" width="94" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="451" y="163" class="c" text-anchor="middle">Edge Impulse</text>
 
-  <!-- 03 Software -->
+  <!-- Python -->
+  <rect x="316" y="120" width="75" height="23" rx="5" class="chip"/>
+  <path d="M326 125h8q3 0 3 3v3h-7q-3 0-3 3v2 M337 138h-8q-3 0-3-3v-3h7q3 0 3-3v-2" fill="none" stroke="#FFD34E" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="330" cy="128" r="1" fill="#101318"/>
+  <circle cx="334" cy="135" r="1" fill="#101318"/>
+  <text x="343" y="135" class="ct">Python</text>
+
+  <!-- OpenCV -->
+  <rect x="397" y="120" width="79" height="23" rx="5" class="chip"/>
+  <path d="M408 125l5 3-5 3-5-3z M413 131l5 3-5 3-5-3 M403 132l5 3-5 3-5-3" fill="none" stroke="#65D6AD" stroke-width="1.4"/>
+  <text x="422" y="135" class="ct">OpenCV</text>
+
+  <!-- YOLO -->
+  <rect x="482" y="120" width="55" height="23" rx="5" class="chip"/>
+  <path d="M492 126l5 6-5 6 M498 126h6 M498 138h6" class="orange"/>
+  <text x="508" y="135" class="ct">YOLO</text>
+
+  <!-- TensorFlow -->
+  <rect x="316" y="148" width="106" height="23" rx="5" class="chip"/>
+  <g fill="none" stroke="#FF9F43" stroke-width="1.3">
+    <path d="M328 153v13 M323 156h10 M323 161h10 M323 166h10"/>
+    <circle cx="328" cy="153" r="1.5" fill="#FF9F43"/>
+    <circle cx="323" cy="156" r="1.5" fill="#FF9F43"/>
+    <circle cx="333" cy="161" r="1.5" fill="#FF9F43"/>
+  </g>
+  <text x="340" y="163" class="ct">TensorFlow</text>
+
+  <!-- Edge Impulse -->
+  <rect x="428" y="148" width="110" height="23" rx="5" class="chip"/>
+  <path d="M437 161h3l2-5 3 10 3-7 2 2h3" class="mint"/>
+  <text x="456" y="163" class="ct">Edge Impulse</text>
+
+  <!-- SOFTWARE -->
   <text x="610" y="28" class="n">03</text>
   <text x="610" y="50" class="h">Software</text>
-  <rect x="610" y="60" width="266" height="1" fill="#5fbc8a" fill-opacity="0.16"/>
+  <rect x="610" y="60" width="266" height="1" fill="#343B46"/>
   <text x="610" y="84" class="d">The interfaces and services</text>
   <text x="610" y="102" class="d">that make the hardware useful.</text>
-  <rect x="610" y="120" width="81" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="650.5" y="135" class="c" text-anchor="middle">TypeScript</text>
-  <rect x="698" y="120" width="50" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="723" y="135" class="c" text-anchor="middle">React</text>
-  <rect x="755" y="120" width="62" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="786" y="135" class="c" text-anchor="middle">Next.js</text>
-  <rect x="610" y="148" width="31" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="625.5" y="163" class="c" text-anchor="middle">Go</text>
-  <rect x="648" y="148" width="43" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="669.5" y="163" class="c" text-anchor="middle">Node</text>
-  <rect x="698" y="148" width="81" height="22" rx="5" fill="#5fbc8a" fill-opacity="0.1"/>
-  <text x="738.5" y="163" class="c" text-anchor="middle">PostgreSQL</text>
+
+  <!-- TypeScript -->
+  <rect x="610" y="120" width="88" height="23" rx="5" class="chip"/>
+  <rect x="618" y="125" width="14" height="14" rx="2" fill="#3178C6"/>
+  <text x="625" y="136" font-size="9" font-weight="700" fill="#FFFFFF" text-anchor="middle">TS</text>
+  <text x="637" y="135" class="ct">TypeScript</text>
+
+  <!-- React -->
+  <rect x="704" y="120" width="65" height="23" rx="5" class="chip"/>
+  <g transform="translate(718 131)" fill="none" stroke="#61DAFB" stroke-width="1">
+    <ellipse rx="9" ry="3.5"/>
+    <ellipse rx="9" ry="3.5" transform="rotate(60)"/>
+    <ellipse rx="9" ry="3.5" transform="rotate(120)"/>
+    <circle r="1.5" fill="#61DAFB"/>
+  </g>
+  <text x="731" y="135" class="ct">React</text>
+
+  <!-- Next -->
+  <rect x="775" y="120" width="65" height="23" rx="5" class="chip"/>
+  <text x="783" y="136" font-size="14" font-weight="700" fill="#F5F7FA">N</text>
+  <text x="802" y="135" class="ct">Next.js</text>
+
+  <!-- Go -->
+  <rect x="610" y="148" width="53" height="23" rx="5" class="chip"/>
+  <text x="618" y="164" font-size="13" font-weight="700" fill="#00ADD8">Go</text>
+
+  <!-- Node -->
+  <rect x="669" y="148" width="62" height="23" rx="5" class="chip"/>
+  <path d="M680 154l7-3 7 4v8l-7 4-7-4z" fill="none" stroke="#83CD29" stroke-width="1.4"/>
+  <text x="682" y="162" font-size="6.5" font-weight="700" fill="#83CD29">JS</text>
+  <text x="698" y="163" class="ct">Node</text>
+
+  <!-- PostgreSQL -->
+  <rect x="737" y="148" width="106" height="23" rx="5" class="chip"/>
+  <path d="M747 154q0-3 5-3h4q5 1 4 6l-1 7q-2 3-5 1l-1-4-3 4-2-1 1-6q-3-1-2-4z" fill="none" stroke="#699ACA" stroke-width="1.3"/>
+  <circle cx="752" cy="156" r="1" fill="#699ACA"/>
+  <text x="762" y="163" class="ct">PostgreSQL</text>
 </svg>
