@@ -60,12 +60,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Gavinduachintha/Pifetch">🍓 pifetch</a></h3>
+      <h3>🍓<a href="https://github.com/Gavinduachintha/Pifetch"> Pifetch</a></h3>
       <p>A dependency-free neofetch alternative for the Raspberry Pi 5 that reports more system detail than neofetch.</p>
       <sub><strong>Python · Raspberry Pi 5 · CLI · Zero dependencies</strong></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Gavinduachintha/Pibreeze">🌬️ pibreeze</a></h3>
+      <h3>🌬️<a href="https://github.com/Gavinduachintha/Pibreeze"> Pibreeze</a></h3>
       <p>A custom fan speed controller for the Raspberry Pi 5, keeping it cool and quiet.</p>
       <sub><strong>Python · Raspberry Pi 5 · Fan control</strong></sub>
     </td>
