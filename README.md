@@ -1,31 +1,18 @@
 <div align="center">
 
-
-
 <pre>
- ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██████╗ ██╗   ██╗
-██╔════╝ ██╔══██╗██║   ██║██║████╗  ██║██╔══██╗██║   ██║
-██║  ███╗███████║██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║
-██║   ██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║
-╚██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝
- ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██████╗ ██╗   ██╗   █████╗  ██████╗██╗  ██╗██╗███╗   ██╗████████╗██╗  ██╗ █████╗
+██╔════╝ ██╔══██╗██║   ██║██║████╗  ██║██╔══██╗██║   ██║  ██╔══██╗██╔════╝██║  ██║██║████╗  ██║╚══██╔══╝██║  ██║██╔══██╗
+██║  ███╗███████║██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║  ███████║██║     ███████║██║██╔██╗ ██║   ██║   ███████║███████║
+██║   ██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║  ██╔══██║██║     ██╔══██║██║██║╚██╗██║   ██║   ██╔══██║██╔══██║
+╚██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝  ██║  ██║╚██████╗██║  ██║██║██║ ╚████║   ██║   ██║  ██║██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
 
-<sub><b>EMBEDDED SYSTEMS  ·  EDGE AI  ·  APPLIED ELECTRONICS</b></sub>
+<!-- <sub><b>EMBEDDED SYSTEMS · EDGE AI · APPLIED ELECTRONICS</b></sub> -->
 
-<br/>
 
-<a href="https://gavindu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-BC8CFF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/gavindu-achintha"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-<a href="mailto:gavindu.al@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
-<a href="https://www.hackster.io/gavindu911"><img src="https://img.shields.io/badge/HACKSTER-161B22?style=for-the-badge&logo=hackster&logoColor=58A6FF" alt="Hackster" /></a>
-<a href="https://dev.to/gavinduachintha"><img src="https://img.shields.io/badge/DEV.TO-161B22?style=for-the-badge&logo=devdotto&logoColor=58A6FF" alt="DEV" /></a>
 
-<br/><br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=I+build+systems+that+sense%2C+think%2C+and+act.;Sensors+%E2%86%92+Models+%E2%86%92+Actions;Firmware+%E2%86%92+Edge+AI+%E2%86%92+Backend" alt="I build systems that sense, think, and act." /></a>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
 
@@ -108,6 +95,5 @@
 ### Let's build something meaningful.
 
 <sub>Colombo, Sri Lanka</sub>
-
 
 </div>
