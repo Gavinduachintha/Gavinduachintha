@@ -1,48 +1,123 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Gavindu Achintha - I build systems that sense, think, and act" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:15233b,100:2a1f4d&height=120&section=header&animation=twinkling" width="100%" alt="" />
 
-<a href="https://gavindu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5fbc8a?style=flat-square&logo=vercel&logoColor=0b0f0d" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/gavindu-achintha"><img src="https://img.shields.io/badge/LinkedIn-0b0f0d?style=flat-square&logo=linkedin&logoColor=5fbc8a" alt="LinkedIn" /></a>
-<a href="mailto:gavindu.al@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f0d?style=flat-square&logo=gmail&logoColor=5fbc8a" alt="Email" /></a>
-<a href="https://www.hackster.io/gavindu911"><img src="https://img.shields.io/badge/Hackster-0b0f0d?style=flat-square&logo=hackster&logoColor=5fbc8a" alt="Hackster" /></a>
-<a href="https://dev.to/gavinduachintha"><img src="https://img.shields.io/badge/DEV-0b0f0d?style=flat-square&logo=devdotto&logoColor=5fbc8a" alt="DEV" /></a>
+<pre>
+ ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██████╗ ██╗   ██╗
+██╔════╝ ██╔══██╗██║   ██║██║████╗  ██║██╔══██╗██║   ██║
+██║  ███╗███████║██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║
+██║   ██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║
+╚██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+</pre>
 
-</div>
+<sub><b>EMBEDDED SYSTEMS  ·  EDGE AI  ·  APPLIED ELECTRONICS</b></sub>
 
-```console
-gavindu@edge-node:~$ whoami
-Applied Electronics undergraduate at AarchLabs, in Colombo, Sri Lanka.
-I work where the board meets the service: microcontrollers, on-device
-vision, robotics, and the backends that keep those pieces talking.
+<br/>
 
-gavindu@edge-node:~$ cat interests.txt
-swimming · basketball · the occasional game
-```
-
-<div align="center"><h3>Focus</h3></div>
-
-<p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Focus: embedded and edge, applied intelligence, software" />
-</p>
-
-<div align="center"><h3>Selected work</h3></div>
-
-<p align="center">
-  <a href="https://github.com/Gavinduachintha/WildLife_AI"><img src="./assets/card-wildlife-ai.svg" width="49%" alt="WildLife AI" /></a>
-  <a href="https://github.com/Gavinduachintha/Neo_Stick"><img src="./assets/card-neo-stick.svg" width="49%" alt="Neo Stick" /></a>
-  <a href="https://github.com/Gavinduachintha/Mindful-Drive-Pro"><img src="./assets/card-mindful-drive-pro.svg" width="49%" alt="Mindful Drive Pro" /></a>
-  <a href="https://github.com/Gavinduachintha/Trailside"><img src="./assets/card-trailside.svg" width="49%" alt="Trailside" /></a>
-</p>
-
-<div align="center">
-
-<sub>WildLife AI was funded by Avnet and featured by Seeed Studio · more on <a href="https://www.hackster.io/gavindu911">Hackster</a></sub>
+<a href="https://gavindu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-BC8CFF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/gavindu-achintha"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+<a href="mailto:gavindu.al@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+<a href="https://www.hackster.io/gavindu911"><img src="https://img.shields.io/badge/HACKSTER-161B22?style=for-the-badge&logo=hackster&logoColor=58A6FF" alt="Hackster" /></a>
+<a href="https://dev.to/gavinduachintha"><img src="https://img.shields.io/badge/DEV.TO-161B22?style=for-the-badge&logo=devdotto&logoColor=58A6FF" alt="DEV" /></a>
 
 <br/><br/>
 
-**Open to work that joins hardware and software, from a field node to the service behind it.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=I+build+systems+that+sense%2C+think%2C+and+act.;Sensors+%E2%86%92+Models+%E2%86%92+Actions;Firmware+%E2%86%92+Edge+AI+%E2%86%92+Backend" alt="I build systems that sense, think, and act." /></a>
 
-<a href="https://gavindu.vercel.app/">gavindu.vercel.app</a> · <a href="mailto:gavindu.al@gmail.com">gavindu.al@gmail.com</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
+
+```console
+gavindu@edge-node:~$ whoami
+Applied Electronics undergraduate | Sri Lanka
+
+gavindu@edge-node:~$ interests
+Swimming · Basketball · The occasional game
+```
+
+## `01` — About me
+
+- 🎓 Undergraduate in **B.Sc. (Hons) Applied Electronics** at **Wayamba University of Sri Lanka**.
+- 🔬 Building intelligent embedded systems that combine sensors, computer vision, wireless communication, and edge computing.
+- 🛠️ Interested in the full engineering stack, from circuit design and firmware to machine learning and backend services.
+- 🌱 I value consistent learning, practical experimentation, and building things that work outside the lab.
+
+## `02` — Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,ts,postgres,mongodb,redis,nextjs,raspberrypi,linux&theme=dark" alt="Python, C, C++, Go, TypeScript, PostgreSQL, MongoDB, Redis, Next.js, Raspberry Pi and Linux" />
+
+</div>
+
+## `03` — Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦉 <a href="https://github.com/Gavinduachintha/WildLife_AI">WildLife AI</a></h3>
+      <p>Edge-AI wildlife monitoring that detects potential threats and sends GPS-tagged alerts over LoRa, designed to operate without internet connectivity.</p>
+      <sub><strong>Raspberry Pi 5 · YOLOv8 · Python · LoRa · GPS</strong></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/Gavinduachintha/Neo_Stick">Neo Stick</a></h3>
+      <!-- TODO: name the MCU, what it does, and one notable feature -->
+      <p>An embedded hardware and software project exploring compact microcontroller-based systems.</p>
+      <sub><strong>Embedded development · Microcontrollers · Electronics</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/Gavinduachintha/Mindful-Drive-Pro">Mindful Drive Pro</a></h3>
+      <p>An edge-AI driver monitoring project using computer vision to identify signs of drowsiness.</p>
+      <sub><strong>Arduino UNO Q · Edge Impulse · YOLO · Computer Vision</strong></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/Gavinduachintha/Trailside">Trailside</a></h3>
+      <p>An offline AI-powered nature guide using local language models to support field-based exploration without cloud dependency.</p>
+      <sub><strong>Python · Streamlit · Ollama · Gemma</strong></sub>
+    </td>
+  </tr>
+</table>
+
+## `04` — GitHub stats
+
+<div align="center">
+
+<a href="https://github.com/Gavinduachintha"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Gavinduachintha&show_icons=true&hide_border=false&border_color=21262d&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&ring_color=58A6FF&border_radius=10&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub stats" /></a>
+<a href="https://github.com/Gavinduachintha"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavinduachintha&layout=compact&hide_border=false&border_color=21262d&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=6" alt="Top languages" /></a>
+
+<br/>
+
+<a href="https://github.com/Gavinduachintha"><img width="96%" src="https://streak-stats.demolab.com?user=Gavinduachintha&theme=dark&hide_border=false&border_radius=10&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=8B949E&sideNums=C9D1D9&dates=6E7681&stroke=21262D" alt="GitHub streak" /></a>
+
+</div>
+
+## `05` — Currently exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EMBEDDED_LINUX-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Embedded Linux" />
+  <img src="https://img.shields.io/badge/ZEPHYR_RTOS-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Zephyr RTOS" />
+  <img src="https://img.shields.io/badge/BARE--METAL_C-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Bare-metal C" />
+  <img src="https://img.shields.io/badge/EDGE_AI-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Edge AI" />
+  <img src="https://img.shields.io/badge/ROBOTICS-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Robotics" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="https://gavindu.vercel.app/">Website</a> ·
+<a href="https://github.com/Gavinduachintha">GitHub</a> ·
+<a href="https://www.linkedin.com/in/gavindu-achintha">LinkedIn</a> ·
+<a href="mailto:gavindu.al@gmail.com">Email</a>
+
+<sub>Colombo, Sri Lanka</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:15233b,100:2a1f4d&height=110&section=footer" width="100%" alt="" />
 
 </div>
