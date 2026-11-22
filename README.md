@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:15233b,100:2a1f4d&height=120&section=header&animation=twinkling" width="100%" alt="" />
+
 
 <pre>
  ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██████╗ ██╗   ██╗
@@ -101,11 +101,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
 
 <div align="center">
+<div align="center">
+  <img src="assets/laptop-typing-cat-1920x1080.gif" alt="Neon City Rain" width="100%">
+</div>
 
 ### Let's build something meaningful.
 
 <sub>Colombo, Sri Lanka</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:15233b,100:2a1f4d&height=110&section=footer" width="100%" alt="" />
 
 </div>
