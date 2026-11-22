@@ -29,37 +29,54 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
 
-```console
-gavindu@edge-node:~$ whoami
-Applied Electronics undergraduate | Sri Lanka
+<pre>
+<p align="center">
+  <img src="assets/card.svg" alt="gavindu@edge-node neofetch" width="100%">
+</p>
+</pre>
 
-gavindu@edge-node:~$ interests
-Swimming · Basketball · The occasional game
-```
-
-## `01` — About me
-
-- 🎓 Undergraduate in **B.Sc. (Hons) Applied Electronics** at **Wayamba University of Sri Lanka**.
-- 🔬 Building intelligent embedded systems that combine sensors, computer vision, wireless communication, and edge computing.
-- 🛠️ Interested in the full engineering stack, from circuit design and firmware to machine learning and backend services.
-- 🌱 I value consistent learning, practical experimentation, and building things that work outside the lab.
-
-## `02` — Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,ts,postgres,mongodb,redis,nextjs,raspberrypi,linux&theme=dark" alt="Python, C, C++, Go, TypeScript, PostgreSQL, MongoDB, Redis, Next.js, Raspberry Pi and Linux" />
-
-</div>
-
-## `03` — Featured projects
+## `01` — Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📟 Pocket OS</h3>
+      <!-- TODO: add the Pocket OS repo link -->
+      <p>A custom operating system for the ESP32-S3 with a built-in display. A handy pocket embedded tool, in the spirit of M5Stack, for analysing WiFi and Bluetooth on the go.</p>
+      <sub><strong>ESP32-S3 · Embedded OS · WiFi · Bluetooth · Display</strong></sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🦉 <a href="https://github.com/Gavinduachintha/WildLife_AI">WildLife AI</a></h3>
       <p>Edge-AI wildlife monitoring that detects potential threats and sends GPS-tagged alerts over LoRa, designed to operate without internet connectivity.</p>
       <sub><strong>Raspberry Pi 5 · YOLOv8 · Python · LoRa · GPS</strong></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/Gavinduachintha/Mindful-Drive-Pro">Mindful Drive Pro</a></h3>
+      <p>An edge-AI driver monitoring project using computer vision to identify signs of drowsiness.</p>
+      <sub><strong>Arduino UNO Q · Edge Impulse · YOLO · Computer Vision</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍓 pifetch</h3>
+      <!-- TODO: add the pifetch repo link -->
+      <p>A dependency-free neofetch alternative for the Raspberry Pi 5 that reports more system detail than neofetch.</p>
+      <sub><strong>Python · Raspberry Pi 5 · CLI · Zero dependencies</strong></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌬️ pibreeze</h3>
+      <!-- TODO: add the pibreeze repo link -->
+      <p>A custom fan speed controller for the Raspberry Pi 5, keeping it cool and quiet.</p>
+      <sub><strong>Python · Raspberry Pi 5 · Fan control</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/Gavinduachintha/Trailside">Trailside</a></h3>
+      <p>An offline AI-powered nature guide using local language models to support field-based exploration without cloud dependency.</p>
+      <sub><strong>Python · Streamlit · Ollama · Gemma</strong></sub>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 <a href="https://github.com/Gavinduachintha/Neo_Stick">Neo Stick</a></h3>
@@ -68,21 +85,9 @@ Swimming · Basketball · The occasional game
       <sub><strong>Embedded development · Microcontrollers · Electronics</strong></sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Gavinduachintha/Mindful-Drive-Pro">Mindful Drive Pro</a></h3>
-      <p>An edge-AI driver monitoring project using computer vision to identify signs of drowsiness.</p>
-      <sub><strong>Arduino UNO Q · Edge Impulse · YOLO · Computer Vision</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/Gavinduachintha/Trailside">Trailside</a></h3>
-      <p>An offline AI-powered nature guide using local language models to support field-based exploration without cloud dependency.</p>
-      <sub><strong>Python · Streamlit · Ollama · Gemma</strong></sub>
-    </td>
-  </tr>
 </table>
 
-## `04` — GitHub stats
+## `02` — GitHub stats
 
 <div align="center">
 
@@ -95,26 +100,11 @@ Swimming · Basketball · The occasional game
 
 </div>
 
-## `05` — Currently exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/EMBEDDED_LINUX-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Embedded Linux" />
-  <img src="https://img.shields.io/badge/ZEPHYR_RTOS-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Zephyr RTOS" />
-  <img src="https://img.shields.io/badge/BARE--METAL_C-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Bare-metal C" />
-  <img src="https://img.shields.io/badge/EDGE_AI-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Edge AI" />
-  <img src="https://img.shields.io/badge/ROBOTICS-161B22?style=flat-square&labelColor=161B22&color=58A6FF" alt="Robotics" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:BC8CFF&height=2&section=header" width="100%" alt="" />
 
 <div align="center">
 
 ### Let's build something meaningful.
-
-<a href="https://gavindu.vercel.app/">Website</a> ·
-<a href="https://github.com/Gavinduachintha">GitHub</a> ·
-<a href="https://www.linkedin.com/in/gavindu-achintha">LinkedIn</a> ·
-<a href="mailto:gavindu.al@gmail.com">Email</a>
 
 <sub>Colombo, Sri Lanka</sub>
 
